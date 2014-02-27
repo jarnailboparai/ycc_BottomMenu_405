@@ -48,3 +48,8 @@
 	display: none;
 }
 /* Social Media Page Setting Ends Here */
+
+/* page list setting */
+.staticPageList li > p  {
+	display:none;
+}
